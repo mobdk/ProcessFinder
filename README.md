@@ -1,5 +1,6 @@
 # ProcessFinder
-Find process and startup arguments with syscalls only
+Find process and startup arguments with syscalls only, as an example we are looking for svchost.exe with startup 
+arguments ClipboardSvcGroup and cbdhsvc
 
 An example how to find running process and startup arguments with syscalls:
 
